@@ -52,35 +52,6 @@ CPClock provides a centralized dashboard for competitive programmers by combinin
 
 ---
 
-Competitive-Programming-Tracker-and-Analyzer.git
-
-````
-
-2. Navigate to the project directory
-```bash
-cd CPClock---Competitive-Programming-Tracker-and-Analyzer
-````
-
-3. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-4. Run the development server
-
-   ```bash
-   npm run dev
-   ```
-
-5. Open your browser and visit:
-
-   ```
-   http://localhost:3000
-   ```
-
----
-
 ## 🔮 Future Enhancements
 
 * Integration with LeetCode, AtCoder, and CodeChef
@@ -90,5 +61,4 @@ cd CPClock---Competitive-Programming-Tracker-and-Analyzer
 
 ---
 
-⭐ If you find this project useful, consider giving it a star!
 
